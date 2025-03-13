@@ -77,3 +77,8 @@ sudo traceroute -T saveetha.ac.in
 ### Output:
 ![Screenshot 2025-03-10 115433](https://github.com/user-attachments/assets/7144f56a-a361-43b6-ae8e-cb121c6cc956)
 
+
+## RESULT:
+The information gathering techniques tools/procedure were  identified successfully
+
+
