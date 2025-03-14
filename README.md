@@ -68,6 +68,17 @@ whatweb zoho.com
 ### Output:
 ![Screenshot 2025-03-10 113342](https://github.com/user-attachments/assets/a6a99a80-a6ab-40b2-a5d7-2f39229e3934)
 
+## Httprint:
+```
+httprint -h 172.17.62.86 -s
+```
+### Output:
+![Screenshot 2025-03-14 142523](https://github.com/user-attachments/assets/18345e2b-2a2d-422f-8099-1ae8c24d2914)
+
+![Screenshot 2025-03-14 142450](https://github.com/user-attachments/assets/f829810a-239b-4dbd-b789-f43e6be4794e)
+
+
+
 
 ## Tracing the Location
 ### TCP Traceroute:
@@ -76,6 +87,22 @@ sudo traceroute -T saveetha.ac.in
 ```
 ### Output:
 ![Screenshot 2025-03-10 115433](https://github.com/user-attachments/assets/7144f56a-a361-43b6-ae8e-cb121c6cc956)
+
+```
+traceroute -U saveetha.ac.in
+```
+### Output:
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/92fd6d7f-3e45-4599-855d-09998383aa07" />
+
+```
+traceroute saveetha.ac.in
+
+```
+### Output:
+sudo <img width="471" alt="image" src="https://github.com/user-attachments/assets/33334fe2-7a69-47fc-b529-53d5c03026eb" />
+
+
+
 
 
 ## RESULT:
