@@ -99,7 +99,7 @@ traceroute saveetha.ac.in
 
 ```
 ### Output:
-sudo <img width="471" alt="image" src="https://github.com/user-attachments/assets/33334fe2-7a69-47fc-b529-53d5c03026eb" />
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/33334fe2-7a69-47fc-b529-53d5c03026eb" />
 
 
 
